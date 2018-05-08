@@ -2,7 +2,11 @@
 Homeworks for TechnoSphere@Mail.ru project
 
 ## 1 semester:
-C++, Python, Machine learning
+C++ - cpp
+Python - python
+Machine learning - algo
 
 ## 2 semester
-Neural networks, search engine, C++ multithreading
+Neural networks - nn
+search engine - search
+C++ multithreading /afina
