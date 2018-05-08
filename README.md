@@ -2,7 +2,7 @@
 Homeworks for TechnoSphere@Mail.ru project
 
 ## 1 semester:
-C++ - cpp
+C++ - cpp <br/>
 Python - python
 Machine learning - algo
 
